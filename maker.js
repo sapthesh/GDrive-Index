@@ -30,10 +30,10 @@ var html = `
     <link rel="stylesheet" href="https://raw.githubusercontent.com/sapthesh/GDrive-Index/tree/master/css/mail-box-style.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://raw.githubusercontent.com/sapthesh/GDrive-Index/tree/master/css/mail-box-style.css" crossorigin="anonymous">
 </head>
-<body style="background-image: url('Your Background Image');">
+<body style="background-image: url('https://github.com/sapthesh/GDrive-Index/raw/master/img/back.jpg');">
     <br>
     <center>
-        <a href="/"><img src="Head Logo - Use transparent PNG" height="50px"></a>
+        <a href="/">Google Shared Drive Creator</a>
         <br>
         <br>
     </center>
